@@ -1,1 +1,0 @@
-# zut-grafika-i-wizualizacja
