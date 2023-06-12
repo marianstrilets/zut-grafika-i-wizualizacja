@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\_ZUT_4_semestr\Grafika i wizualizacja\GitHub\GiW_2023_211A_Strilets_Marian\ray_tracer" -B "D:\_ZUT_4_semestr\Grafika i wizualizacja\GitHub\GiW_2023_211A_Strilets_Marian\ray_tracer\cmake-build-debug"
+------------- OPENCV
+FindOpenCV.cmake path: C:/users/rmant/CLionProjects/ray_tracer/3rd/opencv
+-------------- OUTPUT DIRECTORIES
+Project folder: D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer
+Runtime folder set to: D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/cmake-build-debug

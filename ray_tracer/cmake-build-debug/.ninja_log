@@ -1,0 +1,88 @@
+# ninja log v5
+5	3451	7067538135043948	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+5	3290	7067549766871099	CMakeFiles/rt.dir/src/main.cpp.obj	c3fd360ed82a3230
+15	5967	7067535399408918	CMakeFiles/rt.dir/src/function/draw_robot.cpp.obj	cad64675d3b9420
+9	3884	7067551523998918	CMakeFiles/rt.dir/src/CScene.cpp.obj	85ee67f57993eb28
+5	6040	7067535400144111	CMakeFiles/rt.dir/src/CImage.cpp.obj	a965f753047c0b6d
+24	5631	7067535396050850	CMakeFiles/rt.dir/src/CRay.cpp.obj	1fff802d10eb6e53
+3294	3601	7067551944268779	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+9	5586	7067535395619260	CMakeFiles/rt.dir/src/CObject.cpp.obj	2c4674e0f3444803
+5648	9807	7067535437834493	CMakeFiles/rt.dir/src/function/draw_triangles.cpp.obj	d82e1e74f0037e56
+5	3292	7067551941239671	CMakeFiles/rt.dir/src/function/matrix_projection.cpp.obj	b0c02fa3da4cfc49
+5	3311	7067552908713169	CMakeFiles/rt.dir/src/function/matrix_projection.cpp.obj	b0c02fa3da4cfc49
+3316	3816	7067552913691252	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+5	3319	7067553217585574	CMakeFiles/rt.dir/src/function/matrix_projection.cpp.obj	b0c02fa3da4cfc49
+3324	3617	7067553220474773	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+5	3286	7067553546867515	CMakeFiles/rt.dir/src/function/matrix_projection.cpp.obj	b0c02fa3da4cfc49
+3288	3503	7067553548947293	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+10	3590	7067553826680101	CMakeFiles/rt.dir/src/function/matrix_projection.cpp.obj	b0c02fa3da4cfc49
+5	3596	7067553826720777	CMakeFiles/rt.dir/src/CScene.cpp.obj	85ee67f57993eb28
+3598	3856	7067553829269297	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+4	3314	7067554295462247	CMakeFiles/rt.dir/src/function/matrix_projection.cpp.obj	b0c02fa3da4cfc49
+3317	3623	7067554298470987	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+5	3348	7067554647684738	CMakeFiles/rt.dir/src/function/matrix_projection.cpp.obj	b0c02fa3da4cfc49
+3352	3567	7067554649794455	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+4	3283	7067555990072429	CMakeFiles/rt.dir/src/function/matrix_projection.cpp.obj	b0c02fa3da4cfc49
+3288	3516	7067555992342337	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+5	3247	7067559459521486	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+3249	3740	7067559464399595	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+5	3373	7067561305807092	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+3374	3890	7067561310875384	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+6	3800	7073134555472368	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+3805	4501	7073134562419006	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+6	3493	7073144705282901	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+3494	3920	7073144709456288	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+5	3476	7073148404162745	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+3480	3727	7073148406594382	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+5	3463	7073152084764895	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+3469	3968	7073152089745391	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+40	6851	7073160682924547	CMakeFiles/rt.dir/src/function/draw_robot.cpp.obj	cad64675d3b9420
+56	6887	7073160683294577	CMakeFiles/rt.dir/src/CScene.cpp.obj	85ee67f57993eb28
+10	6952	7073160683944560	CMakeFiles/rt.dir/src/CImage.cpp.obj	a965f753047c0b6d
+20	7035	7073160684766072	CMakeFiles/rt.dir/src/CObject.cpp.obj	2c4674e0f3444803
+29	7166	7073160686105694	CMakeFiles/rt.dir/src/CRay.cpp.obj	1fff802d10eb6e53
+10	4531	7073162257491567	CMakeFiles/rt.dir/src/main.cpp.obj	c3fd360ed82a3230
+17	4596	7073162258149130	CMakeFiles/rt.dir/src/function/matrix_projection.cpp.obj	b0c02fa3da4cfc49
+5	4638	7073162258539128	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+23	4713	7073162259319107	CMakeFiles/rt.dir/src/function/draw_triangles.cpp.obj	d82e1e74f0037e56
+4719	5266	7073162264803707	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+17	7613	7073180570954147	CMakeFiles/rt.dir/src/CObject.cpp.obj	2c4674e0f3444803
+23	7660	7073180571477561	CMakeFiles/rt.dir/src/CRay.cpp.obj	1fff802d10eb6e53
+44	7805	7073180572842783	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+31	7982	7073180574433747	CMakeFiles/rt.dir/src/function/draw_robot.cpp.obj	cad64675d3b9420
+10	8054	7073180575313776	CMakeFiles/rt.dir/src/CImage.cpp.obj	a965f753047c0b6d
+37	8108	7073180575853724	CMakeFiles/rt.dir/src/CScene.cpp.obj	85ee67f57993eb28
+7807	12065	7073180615576681	CMakeFiles/rt.dir/src/function/draw_triangles.cpp.obj	d82e1e74f0037e56
+7616	12079	7073180615709138	CMakeFiles/rt.dir/src/main.cpp.obj	c3fd360ed82a3230
+7663	12085	7073180615739113	CMakeFiles/rt.dir/src/function/matrix_projection.cpp.obj	b0c02fa3da4cfc49
+12090	12418	7073180618969105	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+6	3469	7073189942224904	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+3472	3705	7073189944526461	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+6	3472	7073191174218455	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+3478	3991	7073191179350699	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+5	3412	7073193442272175	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+3416	3932	7073193447395082	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+8	3826	7073193795652562	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+3828	4082	7073193798166883	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+5	3436	7073194335994043	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+3441	3671	7073194338300831	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+5	3471	7073196537745308	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+3473	4000	7073196542897002	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+11	3670	7073200478006769	CMakeFiles/rt.dir/src/function/matrix_projection.cpp.obj	b0c02fa3da4cfc49
+5	3572	7073200693103764	CMakeFiles/rt.dir/src/function/matrix_projection.cpp.obj	b0c02fa3da4cfc49
+5	3479	7073202034181698	CMakeFiles/rt.dir/src/main.cpp.obj	c3fd360ed82a3230
+3482	3980	7073202039124695	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+14	5524	7073214360375965	CMakeFiles/rt.dir/src/CRay.cpp.obj	1fff802d10eb6e53
+10	5854	7073214363698530	CMakeFiles/rt.dir/src/CObject.cpp.obj	2c4674e0f3444803
+5	5931	7073214364488782	CMakeFiles/rt.dir/src/CImage.cpp.obj	a965f753047c0b6d
+24	6065	7073214365814308	CMakeFiles/rt.dir/src/function/draw_robot.cpp.obj	cad64675d3b9420
+19	6226	7073214367444193	CMakeFiles/rt.dir/src/CScene.cpp.obj	85ee67f57993eb28
+5528	9249	7073214397682809	CMakeFiles/rt.dir/src/function/draw_triangles.cpp.obj	d82e1e74f0037e56
+15	3862	7073214808009110	CMakeFiles/rt.dir/src/function/matrix_projection.cpp.obj	b0c02fa3da4cfc49
+5	3906	7073214808420755	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+10	3909	7073214808470742	CMakeFiles/rt.dir/src/main.cpp.obj	c3fd360ed82a3230
+3915	4160	7073214810908306	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+6	3540	7073216130368254	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	13a261f55ee60154
+3546	3774	7073216132610241	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
+5	3494	7073219382684720	CMakeFiles/rt.dir/src/main.cpp.obj	c3fd360ed82a3230
+3498	3735	7073219385048668	D:/_ZUT_4_semestr/Grafika i wizualizacja/GitHub/GiW_2023_211A_Strilets_Marian/ray_tracer/bin/rt.exe	bf9df4d5781ea653
